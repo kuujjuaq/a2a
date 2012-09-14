@@ -11,4 +11,4 @@ class A2A::Deck
 
   def get_cards(name) 
   end
-yend
+end
